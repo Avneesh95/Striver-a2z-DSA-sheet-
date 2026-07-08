@@ -8,7 +8,9 @@ public class count_the_number_of_odd_digit {
 
         System.out.println(count(num));
     }
-    
+
+
+    // Approach 1 --> time complexity O(n) Space Complexity O(1)
     private static int count(int num)
     {
         int digit = 0;
