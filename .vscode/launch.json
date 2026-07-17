@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Divisor",
+            "request": "launch",
+            "mainClass": "Divisor",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
             "name": "LCM",
             "request": "launch",
             "mainClass": "LCM",
