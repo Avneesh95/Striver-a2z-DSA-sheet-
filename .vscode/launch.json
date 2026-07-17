@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "GCD_of_num",
+            "request": "launch",
+            "mainClass": "GCD_of_num",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "print_prime_num_1toN",
+            "request": "launch",
+            "mainClass": "print_prime_num_1toN",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "Check_num_is_prime",
+            "request": "launch",
+            "mainClass": "Check_num_is_prime",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Striver a2z_e57fa5e3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
